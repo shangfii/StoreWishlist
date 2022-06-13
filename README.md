@@ -1,5 +1,6 @@
 # StoreWishList
 
+[Click to see the app live!](https://cryptic-reef-40632.herokuapp.com/)
 [![MIT Badge](https://img.shields.io/badge/License-MIT-yellow.svg)](https://mit-license.org/)
 
 ## Description
@@ -45,7 +46,7 @@ This screen recording shows the console as a user saves a store, depicting that 
 
 ## Links
 
-To view our deployed application, checkout our [Heroku](https://aefzs-wishlistkeeper.herokuapp.com/) page.
+To view our deployed application, checkout our [Heroku page](https://cryptic-reef-40632.herokuapp.com/).
 
 Our initial project outline can be found [here](https://docs.google.com/document/d/1VM8x9V3RB4M111XoBBW3iHfdzmutCEYimLUaNarOv-Y/edit?usp=sharing).
 
