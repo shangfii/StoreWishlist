@@ -35,26 +35,23 @@
     {{#each newstores as |newstore|}}
       <div>
         <div class=''>
-          <h4><a href='/api//newStore/{{newstore.id}}'>{{newstore.store_name}}</a></h4>
+          <h4><a href='/api/newStore/{{newstore.id}}'>{{newstore.store_name}}</a></h4>
         </div>
         <div class=''>
           <button class='btn btn-sm btn-danger' data-id='{{newstore.id}}'>Delete
             this store</button>
         </div>
       </div>
-      <!--<div class="col-md-4">
+      <div class="col-md-4">
         <button class='btn btn-sm btn-danger' data-id='{{store.id}}'>Delete
             this store</button>
-      </div>-->
-
+      </div>
+    </div>
     {{/each}}
     {{/if}}
-  
+  </div>
 </div>
 
 {{!-- <script src='/js/'></script> --}}
 {{!-- <script src="/js/form.js"></script> --}}
-<script>
-
-</script>
 <script src="/js/profile2.js"></script>

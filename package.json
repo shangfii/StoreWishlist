@@ -1,7 +1,7 @@
 {
   "name": "storewishlist",
   "version": "1.0.0",
-  "description": "[![MIT Badge](https://img.shields.io/badge/License-MIT-yellow.svg)](https://mit-license.org/)",
+  "description": "",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -28,10 +28,8 @@
     "express": "^4.18.1",
     "express-handlebars": "^6.0.6",
     "express-session": "^1.17.3",
-    "expresss": "^0.0.0",
     "mysql2": "^2.3.3",
     "prettier": "^2.6.2",
     "sequelize": "^6.20.0"
-  },
-  "devDependencies": {}
+  }
 }
